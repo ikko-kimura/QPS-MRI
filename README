@@ -8,17 +8,17 @@ These are the codes used in the QPS-MRI project conducted at CiNet, Advanced ICT
 
 01. PREPROCESS
 
-Preprocessing steps for task fMRI, rsfMRI and dMRI data
+  Preprocessing steps for task fMRI, rsfMRI and dMRI data
 
 ### IMAGING ANALYSIS
 
 02-01. TBSS Tractography
 
-Run [Tract-based Spatial Statistics](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS) and Tractography for dMRI data
+  Run [Tract-based Spatial Statistics](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TBSS) and Tractography for dMRI data
 
 02-02. Calculate FC
 
-Define the seed and ROI regions; and run seed-based correlation and ROI-to-ROI analysis for rsfMRI data.
+  Define the seed and ROI regions; and run seed-based correlation and ROI-to-ROI analysis for rsfMRI data.
 
 ### STATISTICS
 
